@@ -2,7 +2,7 @@
 shows corona status with python
 how to use:
     
-    pip3.8 install requests
-    pip3.8 install bs4
-    pip3.8 install termcolor
+    git clone https://github.com/darkwlf/corona
+    cd corona
+    pip install -r requirments.txt
     python3.8 corona
